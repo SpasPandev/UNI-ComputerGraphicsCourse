@@ -1,0 +1,5 @@
+﻿  Application.cpp
+E:\programming\OpenGL8_Lighting\OpenGL1\Application.cpp(32,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\programming\OpenGL8_Lighting\OpenGL1\Application.cpp(33,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\programming\OpenGL8_Lighting\OpenGL1\Application.cpp(133,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  OpenGL1.vcxproj -> E:\programming\OpenGL8_Lighting\Debug\OpenGL8_Lighting.exe

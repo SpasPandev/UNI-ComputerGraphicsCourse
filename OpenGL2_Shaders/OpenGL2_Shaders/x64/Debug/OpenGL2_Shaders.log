@@ -1,0 +1,14 @@
+﻿  glad.c
+  Maincpp.cpp
+Maincpp.obj : error LNK2019: unresolved external symbol glfwInit referenced in function main
+Maincpp.obj : error LNK2019: unresolved external symbol glfwTerminate referenced in function main
+Maincpp.obj : error LNK2019: unresolved external symbol glfwWindowHint referenced in function main
+Maincpp.obj : error LNK2019: unresolved external symbol glfwCreateWindow referenced in function main
+Maincpp.obj : error LNK2019: unresolved external symbol glfwWindowShouldClose referenced in function main
+Maincpp.obj : error LNK2019: unresolved external symbol glfwSetFramebufferSizeCallback referenced in function main
+Maincpp.obj : error LNK2019: unresolved external symbol glfwPollEvents referenced in function main
+Maincpp.obj : error LNK2019: unresolved external symbol glfwMakeContextCurrent referenced in function main
+Maincpp.obj : error LNK2019: unresolved external symbol glfwSwapBuffers referenced in function main
+Maincpp.obj : error LNK2019: unresolved external symbol glfwGetProcAddress referenced in function main
+E:\programming\OpenGL2_Shaders\OpenGL2_Shaders\deps\glfw\lib\glfw3.lib : warning LNK4272: library machine type 'x86' conflicts with target machine type 'x64'
+E:\programming\OpenGL2_Shaders\x64\Debug\OpenGL2_Shaders.exe : fatal error LNK1120: 10 unresolved externals

@@ -1,0 +1,23 @@
+﻿  Application.cpp
+E:\TU - SOFIA\III kurs\VI semestar\КОМПЮТЪРНА ГРАФИКА\Упражнения\Упражнение 12\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\OpenGL1\deps\stb_image\include\stb_image\stb_image.h : fatal error C1081: 'e:\tu - sofia\iii kurs\vi semestar\компютърна графика\упражнения\упражнение 12\012_opengl_modelloading_vs2019\012_opengl_modelloading_vs2019\012_opengl_modelloading_vs2019\opengl1\deps\stb_image\include\stb_image\stb_image.h': file name too long
+  BufferLayout.cpp
+  IndexBuffer.cpp
+  Main.cpp
+E:\TU - SOFIA\III kurs\VI semestar\КОМПЮТЪРНА ГРАФИКА\Упражнения\Упражнение 12\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\OpenGL1\deps\stb_image\include\stb_image\stb_image.h : fatal error C1081: 'e:\tu - sofia\iii kurs\vi semestar\компютърна графика\упражнения\упражнение 12\012_opengl_modelloading_vs2019\012_opengl_modelloading_vs2019\012_opengl_modelloading_vs2019\opengl1\deps\stb_image\include\stb_image\stb_image.h': file name too long
+  Mesh.cpp
+E:\Program Files\VS Community\VC\Tools\MSVC\14.28.29333\include\memory(2832,1): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+E:\TU - SOFIA\III kurs\VI semestar\КОМПЮТЪРНА ГРАФИКА\Упражнения\Упражнение 12\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\OpenGL1\Mesh.h(98): message : see reference to function template instantiation 'std::unique_ptr<VertexBuffer,std::default_delete<VertexBuffer>> std::make_unique<VertexBuffer,_Ty*,unsigned __int64,0>(_Ty *&&,unsigned __int64 &&)' being compiled
+          with
+          [
+              _Ty=Vertex
+          ]
+  Model.cpp
+E:\TU - SOFIA\III kurs\VI semestar\КОМПЮТЪРНА ГРАФИКА\Упражнения\Упражнение 12\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\OpenGL1\deps\stb_image\include\stb_image\stb_image.h : fatal error C1081: 'e:\tu - sofia\iii kurs\vi semestar\компютърна графика\упражнения\упражнение 12\012_opengl_modelloading_vs2019\012_opengl_modelloading_vs2019\012_opengl_modelloading_vs2019\opengl1\deps\stb_image\include\stb_image\stb_image.h': file name too long
+  Shader.cpp
+  stb_image.cpp
+  Texture.cpp
+E:\TU - SOFIA\III kurs\VI semestar\КОМПЮТЪРНА ГРАФИКА\Упражнения\Упражнение 12\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\OpenGL1\deps\stb_image\include\stb_image\stb_image.h : fatal error C1081: 'e:\tu - sofia\iii kurs\vi semestar\компютърна графика\упражнения\упражнение 12\012_opengl_modelloading_vs2019\012_opengl_modelloading_vs2019\012_opengl_modelloading_vs2019\opengl1\deps\stb_image\include\stb_image\stb_image.h': file name too long
+  VertexArray.cpp
+E:\TU - SOFIA\III kurs\VI semestar\КОМПЮТЪРНА ГРАФИКА\Упражнения\Упражнение 12\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\012_OpenGL_ModelLoading_VS2019\OpenGL1\VertexArray.cpp(32,55): warning C4312: 'type cast': conversion from 'const unsigned int' to 'void *' of greater size
+  VertexBuffer.cpp
+  Generating Code...

@@ -1,0 +1,9 @@
+﻿E:\Program Files\VS Community\MSBuild\Microsoft\VC\v160\Microsoft.CppBuild.targets(491,5): warning MSB8028: The intermediate directory (Debug\) contains files shared from another project (005_OpenGL_Refactoring.vcxproj, OpenGL4_Texturing.vcxproj, OpenGL5_Transformations.vcxproj, OpenGL6_CoordinateSystems.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  Application.cpp
+E:\programming\OpenGL7_Camera\OpenGL1\Application.cpp(32,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\programming\OpenGL7_Camera\OpenGL1\Application.cpp(33,19): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\programming\OpenGL7_Camera\OpenGL1\Application.cpp(127,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+E:\programming\OpenGL7_Camera\OpenGL1\Application.cpp(273,21): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Main.cpp
+  Generating Code...
+  OpenGL1.vcxproj -> E:\programming\OpenGL7_Camera\Debug\OpenGL7_Camera.exe
